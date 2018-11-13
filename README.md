@@ -21,3 +21,6 @@ Collective discussion on selection of appropriate statistical methods and variab
 
 ## OUTPUT
 * Random forest had a significantly better score compared to the linear approaches on kaggle competition
+* RF best score - 2.1084
+* OLS best score - 14.0238
+* Spline best score - 18.5417
