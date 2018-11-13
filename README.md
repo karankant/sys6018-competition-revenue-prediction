@@ -9,7 +9,7 @@ Collective discussion on selection of appropriate statistical methods and variab
 
 ## We used the old dataset to make predictions
 
-## final.R
+## final_file_submission.R
 
 * It contains the data loading, cleaning (filling legit NAs), and imputation of missing data
 * It also contains exploratory data analysis
