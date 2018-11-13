@@ -26,6 +26,8 @@ train.lm<-lm(transactionRevenue~.,data=train.subset2)
 summary(train.lm)
 
 train_control <- trainControl(method="cv", number=10)
+
+
 # fix the parameters of the algorithm
 grid <- expand.grid(.fL=c(0), .usekernel=c(FALSE))
 # train the model
